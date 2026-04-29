@@ -72,10 +72,13 @@ A modern, intelligent CRM module designed for pharmaceutical sales representativ
 ---
 
 ## 🤖 Sample Prompt Sequences
-Try these in the AI Assistant to see the "Smart Merge" in action:
-1.  *"Met Dr. Smith today for a meeting. He's positive about OncoBoost."*
-2.  *"We also discussed patient fatigue and I shared the dosage guide."*
-3.  *"Schedule a follow-up for next Tuesday and summarize our talk."*
+Try these in the AI Assistant to see the "Smart Merge" and medical extraction in action:
+
+1.  **Start Logging**: *"I just met with **Dr. Smith** via a **Call**. We discussed the **OncoBoost trial** and its **efficacy data**. He seemed very **positive** about the drug."*
+2.  **Add Medical Insights**: *"He mentioned that while **OncoBoost** is working, some patients are reporting **mild headaches** and **nausea**. He specializes in **Endocrinology**."*
+3.  **Append Topics**: *"I shared the **clinical brochure** and **Product X samples** with him during the call. He also asked to **discuss pricing** in our next meeting."*
+4.  **Follow-up & Summary**: *"We agreed to **schedule a follow-up call** next Tuesday. Also, please remind me to **send the latest safety report** to his email. Can you provide a **professional summary** of our talk?"*
+5.  **Edit Form**: *"Actually, change the sentiment to **Neutral** as he expressed some concerns about the side effects at the end."*
 
 ---
 
