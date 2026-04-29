@@ -47,7 +47,7 @@ A modern, intelligent CRM module designed for pharmaceutical sales representativ
     ```
 4.  Configure your `.env` file:
     ```env
-    DATABASE_URL=mysql+pymysql://root:YOUR_PASSWORD@localhost:3306/assesment
+    DATABASE_URL=mysql+pymysql://root:YOUR_PASSWORD@localhost:3306/db_name
     GROQ_API_KEY=YOUR_GROQ_API_KEY
     ```
 5.  Run the server:
