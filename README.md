@@ -2,7 +2,7 @@
 
 A modern, intelligent CRM module designed for pharmaceutical sales representatives to log and manage interactions with Healthcare Professionals (HCPs). This application leverages **LangGraph**, **Groq (Llama 3)**, and **MySQL** to provide a seamless, AI-driven experience.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=AI-First+CRM+Dashboard)
+![Dashboard Preview](dashboard.png)
 
 ## 🚀 Key Features
 
