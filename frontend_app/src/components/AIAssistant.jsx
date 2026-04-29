@@ -1,8 +1,8 @@
-import React, { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { addMessage, setLoading } from '../store/chatSlice';
 import { fillFromAI, updateField, appendField } from '../store/formSlice';
-import { Bot, Send, User } from 'lucide-react';
+import { Bot, Send} from 'lucide-react';
 import axios from 'axios';
 
 export default function AIAssistant() {

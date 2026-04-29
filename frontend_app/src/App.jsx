@@ -1,4 +1,3 @@
-import React from 'react';
 import LogInteractionForm from './components/LogInteractionForm';
 import AIAssistant from './components/AIAssistant';
 import { Activity } from 'lucide-react';

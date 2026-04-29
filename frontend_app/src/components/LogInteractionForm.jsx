@@ -1,7 +1,6 @@
-import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { updateField, resetForm } from '../store/formSlice';
-import { Calendar, Clock, Save, FileText, Search } from 'lucide-react';
+import { Calendar, Save, FileText, Search } from 'lucide-react';
 import axios from 'axios';
 
 export default function LogInteractionForm() {
